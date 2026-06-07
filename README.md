@@ -1,2 +1,12 @@
 # SINGLE_CYCLE_MIPS_INTEGER
-My implementation of a 32-bit Single Cycle MIPS Processor which is capable of executing 81 MIPS instructions
+IP Name: Single-Cycle MIPS Processor Core
+
+Purpose: Implements the single-cycle version of a 32-bit MIPS Processor Core
+
+Feature: Supports the entire MIPS integer instruction set (81 instructions)
+
+Language: Verilog 2001
+
+Contact: rasheedkibria1995@gmail.com
+
+Copyright (C) 2020-2026 Rasheed Kibria
